@@ -1,0 +1,22 @@
+{
+    "name": "healthcare-plus/appointment-system",
+    "description": "Modern Doctor Appointment Booking System - 2025 Version",
+    "type": "project",
+    "keywords": ["php", "healthcare", "appointment", "booking", "doctor"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "php": ">=7.4"
+    },
+    "scripts": {
+        "start": "php -S 0.0.0.0:8000 -t html/"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
+
